@@ -1,5 +1,5 @@
-# addressbook
-hobbie project
+# Addressbook
+Hobbie project
 <br>
 📒 Address Book Management System
 This project is a menu-driven Address Book Management System written in C, designed to efficiently store, manage, and retrieve contact information. It demonstrates strong programming fundamentals such as modular design, structured data management, file handling, and pointer-based memory operations — concepts widely used in embedded software development.
