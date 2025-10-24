@@ -145,12 +145,6 @@ John Doe,1234567892,ad@g.com
 ---
 
 ## 🧑‍💻 Author
-**Developed by:** Aks R  
+**Developed by:** Akshaya Raj Mullasseril
 **Language:** C  
 **Platform:** Command Line  
-**Version:** 1.0
-
----
-
-## 📜 License
-This project is open-source and available for educational purposes.
