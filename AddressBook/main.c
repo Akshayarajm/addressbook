@@ -1,3 +1,8 @@
+/*
+    name        : Akshaya Raj Mullasseril
+    date        : 14/10/2025
+    description : Addresbookk management
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include "contact.h"
@@ -46,3 +51,4 @@ int main() {
     
        return 0;
 }
+
